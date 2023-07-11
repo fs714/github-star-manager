@@ -19,3 +19,22 @@
 
 # Go workspace file
 go.work
+
+# Runtime
+runtime/*
+
+# JetBrains
+.idea
+
+# VSCode
+.vscode
+
+# VIM
+*.swp
+
+# Phhthon Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Bin
+bin/
